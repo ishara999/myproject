@@ -1,0 +1,21 @@
+body{
+    background-color: #010901;
+}
+
+#card-header{
+    background-color: #050000f5;
+    color: white;
+
+}
+
+#card-body{
+    background-color: #050000f5;
+    color: white;
+
+}
+
+#card-footer{
+    background-color: #050000f5;
+    color: white;
+
+}
